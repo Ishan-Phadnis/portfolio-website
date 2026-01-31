@@ -1,0 +1,16 @@
+{
+  "name": "Ishan Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6f00",
+
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "600x600",
+      "type": "image/png"
+    }
+  ]
+}
